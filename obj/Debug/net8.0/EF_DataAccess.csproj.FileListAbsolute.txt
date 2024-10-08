@@ -1,0 +1,17 @@
+C:\Users\Srina\source\repos\EF_DataAccess\bin\Debug\net8.0\EF_DataAccess.deps.json
+C:\Users\Srina\source\repos\EF_DataAccess\bin\Debug\net8.0\EF_DataAccess.runtimeconfig.json
+C:\Users\Srina\source\repos\EF_DataAccess\bin\Debug\net8.0\EF_DataAccess.dll
+C:\Users\Srina\source\repos\EF_DataAccess\bin\Debug\net8.0\EF_DataAccess.pdb
+C:\Users\Srina\source\repos\EF_DataAccess\bin\Debug\net8.0\EF_Models.dll
+C:\Users\Srina\source\repos\EF_DataAccess\bin\Debug\net8.0\EF_Models.pdb
+C:\Users\Srina\source\repos\EF_DataAccess\obj\Debug\net8.0\EF_DataAccess.csproj.AssemblyReference.cache
+C:\Users\Srina\source\repos\EF_DataAccess\obj\Debug\net8.0\EF_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Srina\source\repos\EF_DataAccess\obj\Debug\net8.0\EF_DataAccess.AssemblyInfoInputs.cache
+C:\Users\Srina\source\repos\EF_DataAccess\obj\Debug\net8.0\EF_DataAccess.AssemblyInfo.cs
+C:\Users\Srina\source\repos\EF_DataAccess\obj\Debug\net8.0\EF_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Srina\source\repos\EF_DataAccess\obj\Debug\net8.0\EF_DataA.3CD7E012.Up2Date
+C:\Users\Srina\source\repos\EF_DataAccess\obj\Debug\net8.0\EF_DataAccess.dll
+C:\Users\Srina\source\repos\EF_DataAccess\obj\Debug\net8.0\refint\EF_DataAccess.dll
+C:\Users\Srina\source\repos\EF_DataAccess\obj\Debug\net8.0\EF_DataAccess.pdb
+C:\Users\Srina\source\repos\EF_DataAccess\obj\Debug\net8.0\EF_DataAccess.genruntimeconfig.cache
+C:\Users\Srina\source\repos\EF_DataAccess\obj\Debug\net8.0\ref\EF_DataAccess.dll
